@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Outline_1"><a name="_Toc417653139"></a><span style="margin-right: 0pt;">5.22 </span>Initiate the Request and Verify Data Entry Configurations </p>
+        <p>Once all the Template configurations have been done they need to be tested and verified they are correct. Verify the Data and Manufacturing configurations are correct by creating an Excel Initiated Request.</p>
+        <p>To generate the Excel Initiated Request:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList">The Email To in the email must be external contact created under configuration in dspCompose.</li>
+            <li class="NumberedList">The Subject of the email must exactly match the Subject Alias configure for the External Request Scenario.</li>
+            <li class="NumberedList">An Excel spreadsheet with three rows based on the staging file configured on the External Request Scenario must be attached.</li>
+            <li class="NumberedList">The names of the worksheets within the spreadsheet must match the staging sheet configured on the External Request Scenario.</li>
+        </ol>
+        <p>Once the properly created email is sent a series of validations occur:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList">The email poller processes based on the External Data Email address configured in dspCompose.</li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="2">
+            <li class="NumberedList">dspCompose locates the sender email based on the correct email address for the individual External Request Scenario.</li>
+            <li class="NumberedList">It checks the email for the alias in the subject line that corresponds to a subject alias configured on an external request scenario that creates Excel-initiate requests. </li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="4">
+            <li class="NumberedList">It checks the Worksheet name to an external request scenario. If there is a match between the worksheet name in the Excel file and the name entered in Sheet Name, dspCompose™ copies the request data to a staging table for the external request scenario’s Template.</li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="5">
+            <li class="NumberedList">dspCompose™ then maps the data in the columns in the worksheet to the template columns according to mappings created on the <span style="font-style: italic;">Template (External Request Scenario Columns)</span> page. </li>
+        </ol>
+        <p>If any of the validations fail, dspCompose sends an email back to the sender with a description of the failure.</p>
+        <p>Once all the validations pass, the Request is created and the user assigned to the first role in the workflow receives an email notification indicating a request is ready to be processed.</p>
+        <p>To test the configurations:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList" style="margin-top: 3pt;margin-bottom: 3pt;">Open <span style="font-weight: bold;">Mozilla Thunderbird</span> <img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Additional Roles and.png" style="visibility: visible;mso-wrap-style: square;width: 16px;height: 16px;border-top-style: solid;border-top-width: 1pt;border-bottom-style: solid;border-bottom-width: 1pt;border-left-style: solid;border-left-width: 1pt;border-right-style: solid;border-right-width: 1pt;" /> on the desktop.</li>
+            <li class="NumberedList">Click <span style="font-weight: bold;">Write</span> button to create a new email.</li>
+            <li class="NumberedList">Enter <span style="font-weight: bold;">admin@Training.net</span> in the <span style="font-weight: bold;">To</span> field.</li>
+        </ol>
+    </body>
+</html>

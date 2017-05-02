@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="ScreenShot_4">
+            <img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/cMass vs cMass_Data.png" style="visibility: visible;mso-wrap-style: square;width: 432px;height: 270px;" />
+        </p>
+        <p class="Caption">cMass vs. cMass_Data</p>
+        <p>When a Template is generated in cMass tables, views and a stored procedure are automatically created in the cMass_Data database. Each request is differentiated by the RequestID. </p>
+        <p>The objects created are:</p>
+        <p style="font-weight: bold;">WebApp Page</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">[Template </span><span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame]</span> – A data entry page in the cMass_Data WebApp in the DSP.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">[Template </span><span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame</span><span style="font-weight: bold;">]</span> <span style="font-weight: bold;">Archive</span> – The archive page for archive comparison.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">[Template </span><span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame]</span> <span style="font-weight: bold;">Approve</span> – A page to view the Comparison Approvals for the Review Role.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">[Template </span><span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame]</span> <span style="font-weight: bold;">Archive</span> <span style="font-weight: bold;">Approve</span> – A page to compare the archives.</li>
+        </ul>
+        <p style="font-weight: bold;">Tables</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">rt[</span><span style="font-weight: bold;">T</span><span style="font-weight: bold;">emplate</span> <span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame]</span> – An archive table views</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">rt[</span><span style="font-weight: bold;">T</span><span style="font-weight: bold;">emplate </span><span style="font-weight: bold;">N</span><span style="font-weight: bold;">ame]</span><span style="font-weight: bold;">Compare</span> – An archive comparison table </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">tt[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]</span> – A data entry table </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">tt[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]Compare</span> – A data entry comparison table</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">tt[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]Validation</span> – A table containing validation rule severities and messages</li>
+        </ul>
+        <p style="font-weight: bold;">Views</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]Archive</span><span style="font-weight: bold;">Hor</span> – View displays all fields from the Archive Template table.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]CompareArchive</span><span style="font-weight: bold;">Hor</span> – Compares all of the fields from the Archive table against the Archive Compare table to note differences between the data.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]Compare</span><span style="font-weight: bold;">Hor</span> - Compares all of the field from the active tables to note differences between the data on the Comparison page in dspCompose™.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]</span><span style="font-weight: bold;">Hor</span> – View displays all the fields from the active Template table on the data entry page in dspCompose™.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]RejectCount</span><span style="font-weight: bold;">Sel</span> – View displays count of all Rejected records within the active Template table (by template ID).</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]ValidationErrorMessageCount</span><span style="font-weight: bold;">Sel</span> – View displays count of all Validation Error Messages within the active table by Template ID.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]</span><span style="font-weight: bold;">Dcv</span> – Data Control view used to manage the status of the Template Role Page based on row level controls. </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">web[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]</span><span style="font-weight: bold;">Pcv</span> – Page Control view used to manage the status of the Template Role Page based on page level controls.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">tx[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]</span><span style="font-weight: bold;">Bdc</span> – View used by Template to configure field mappings within Integrate™.</li>
+        </ul>
+        <p style="font-weight: bold;">Stored Procedure</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;"><span style="font-weight: bold;">w</span><span style="font-weight: bold;">eb</span><span style="font-weight: bold;">[</span><span style="font-weight: bold;">Template Name</span><span style="font-weight: bold;">]Ins</span> – A shell procedure to be configured for the comparison of all fields from the Archive table against the ArchiveCompare table.</li>
+        </ul>
+    </body>
+</html>

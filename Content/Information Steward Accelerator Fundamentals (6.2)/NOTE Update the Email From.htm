@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Note"><span style="font-weight: bold;">NOTE</span>:Update the <span style="font-weight: bold;">Email From</span> column for all languages that use Workflow Language Messages.</p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="59">
+            <li style="page-break-after: avoid;mc-heading-level: 1;"><span style="font-family: 'Interstate Bold';color: #4D768E;font-size: 14pt;">Configure Excel Initiated Request</span><span style="font-family: 'Interstate Bold';color: #4D768E;font-size: 14pt;"> Scenario</span>
+            </li>
+        </ol>
+        <p>An external request scenario creates an Excel-initiated request, an external contact sends an email with an Excel file (with one or multiple worksheets) attached to an external data email account configured for dspCompose™.</p>
+        <p>Templates need to be configured to use an external request scenario that creates an Excel-initiated request. dspCompose™ accepts an Excel file attached to the email. The Excel file provides data for the first Data Entry role in the workflow. Not only will the request be created, but the worksheet data from the Excel file will be inserted into the table used by the first Data Entry role (after certain conditions are met).</p>
+        <p>The Excel file must be in the following format:</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">The first row contains the column names of the table that will be created for the lowest priority Data Entry role for the request.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">The second row is ignored, and could contain column descriptions to assist users when entering data.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">The third row is the first data record imported into the staging table.</li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">To use an external request scenario that creates an Excel-initiated request:</li>
+        </ul>
+        <p>Additional configurations within dspCompose need to be completed for the External Scenario to work. This will be demonstrated after the Scenario is added to the Template.</p>
+        <p>Create an External Request Excel Initiated Scenario for the ISA Material Missing MFRPN for TrainingXX rule for the Template.</p>
+        <p>To create the External Scenario:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList" style="margin-top: 5pt;margin-bottom: 5pt;">Click <span style="font-weight: bold;">Home</span> <img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review the Reports.png" style="visibility: visible;mso-wrap-style: square;width: 16px;height: 16px;border-top-style: solid;border-top-width: 1pt;border-bottom-style: solid;border-bottom-width: 1pt;border-left-style: solid;border-left-width: 1pt;border-right-style: solid;border-right-width: 1pt;" /> on the <span style="font-style: italic;">Navigation</span> pane.</li>
+            <li class="NumberedList" style="margin-top: 5pt;margin-bottom: 5pt;">Click <span style="font-weight: bold;">Team</span> on the <span style="font-style: italic;">Navigation</span> pane.</li>
+            <li class="NumberedList" style="margin-top: 5pt;margin-bottom: 5pt;">Click <span style="font-weight: bold;">Templates</span> <span style="font-family: Arial;font-size: 13pt;"><img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Templates are organized in.png" style="visibility: visible;mso-wrap-style: square;width: 17px;height: 16px;" /></span> for <span style="font-weight: bold;">Material</span> <span style="font-weight: bold;">Master</span> Team.</li>
+            <li class="NumberedList" style="margin-top: 5pt;margin-bottom: 5pt;">Locate <span style="font-weight: bold;">MaterialMasterUpdateXX</span> Template.</li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="5">
+            <li class="NumberedList">Click <span style="font-weight: bold;">External Request Scenarios</span> <span style="font-weight: bold;"><img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Update the Email From.png" style="visibility: visible;mso-wrap-style: square;width: 19px;height: 16px;" /></span><span style="font-weight: bold;">. </span></li>
+            <li class="NumberedList">Enter <span style="font-weight: bold;">Training</span><span style="font-weight: bold;">Materials</span><span style="font-weight: bold;">XX</span> in the <span style="font-weight: bold;">Subject</span> <span style="font-weight: bold;">Alias</span> field.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,1571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2017-05-02T16:53:57.1794322-04:00"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../../Governance/Content/Resources/Stylesheets/Training.css"
+  LastImport="2017-05-02T16:55:39.5338256-04:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Christy/Information Steward Accelerator Fundamentals (6.2).docx"
+      AbsoluteSource="file:///C:/Users/BOA901/Desktop/Christy/Information Steward Accelerator Fundamentals (6.2).docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2).jpg"
+      TimeStamp="5/2/2017 4:53:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2).png"
+      TimeStamp="5/2/2017 4:53:58 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2).htm"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Table of Contents.htm"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/End to End Remediation.png"
+      TimeStamp="5/2/2017 4:53:58 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/End to End Remediation.htm"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE In reference to ISA when.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Training Objectives.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Prerequisite.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Remediate Missing US Postal.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/View Dashboard.png"
+      TimeStamp="5/2/2017 4:53:59 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/View Dashboard.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID.png"
+      TimeStamp="5/2/2017 4:53:59 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Dashboard displays.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Dashboard.png"
+      TimeStamp="5/2/2017 4:53:59 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Dashboard.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID_1.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Report.png"
+      TimeStamp="5/2/2017 4:53:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Report_1.png"
+      TimeStamp="5/2/2017 4:53:59 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA Report.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Get Started with Remediation.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Requests.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Templates.htm"
+      TimeStamp="5/2/2017 4:54:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Generate the Request in ISA.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Generate the Request in ISA.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If the Generate compose.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Request is generated.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Process the Request in the.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Additional Roles and.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Additional Roles and.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The workflow email also.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The workflow email also.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Users will only be able.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Generated Request.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Generated Request_1.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA Generated Request.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Generated Request_1_1.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA Generated Request_1.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Some fields are disabled.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Data Controls.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Data Controls.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Postal Code field.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Failures Button.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Failures Button.htm"
+      TimeStamp="5/2/2017 4:54:18 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The error message displays.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Request Validations.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Request Validations.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The validation message.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Error.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Error_1.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Error_2.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Validation Error.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Download Request.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The data entry controls.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Generated Spreadsheet.png"
+      TimeStamp="5/2/2017 4:54:00 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Generated Spreadsheet.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The data control on the.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Enter the following Postal.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE For the purpose of this.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID_2.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE If enabled data previously.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If enabled data previously.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Postal Code fields.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Postal Code fields.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Finish process initiates.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review Role is Active.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review Role is Active.htm"
+      TimeStamp="5/2/2017 4:54:19 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review the Changes.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE All Templates can be.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE All Templates can be.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Workflow Notification.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Workflow Notification.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Reject check box.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review Role.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review Role_1.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review Role.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The 2 records approved.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Request Roles.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Request Roles.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Post the Data.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Post the Data.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE A message displays indicating.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE When the Finish button.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE When the Finish button.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The status for the Request.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Request Posted.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Request Posted_1.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Request Posted_2.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Request Posted.htm"
+      TimeStamp="5/2/2017 4:54:20 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Archive Page ID displays.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Posted Records.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Posted Records_1.png"
+      TimeStamp="5/2/2017 4:54:01 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Posted Records.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Finish Download refreshes.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Finish Process.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Finish Process.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Rejection Reason.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The original Request.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The original Request.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Reject Reason.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Reject Reason.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Refresh the.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed View the updated.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Report Viewer.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Report Viewer.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If the email s subject.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If the sender s email.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If the Excel file contains.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Once the request is created.htm"
+      TimeStamp="5/2/2017 4:54:21 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The ISA Report was generated.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Email.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA Email.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Two worksheets display.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The worksheet names are.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The worksheet name must.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Worksheets.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Worksheets.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE A dedicated email is.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE This is the subject alias.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Process the Request.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Workflow Email.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Workflow Email.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Data Role.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Data Role.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Review and Post.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review the Report and Generate.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review the Report and Generate.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA Report_1_1.png"
+      TimeStamp="5/2/2017 4:54:02 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA Report_1.htm"
+      TimeStamp="5/2/2017 4:54:22 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Update Using Mass Change.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If a user builds a Where.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE This feature can also.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE A validation rule checking.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Rule.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Validation Rule.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The validation Error.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The validation Error.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_1.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_1_1.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_1_2.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_1.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Column Name field.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Value field is the.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mass Change.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mass Change_1.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mass Change_2.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Mass Change.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The new value displays.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The new value displays_1.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The new value displays.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Execute runs the mass.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Execute runs in the background.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Verify the data on the.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Validate button runs.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Approve and.htm"
+      TimeStamp="5/2/2017 4:54:23 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Requests are generated from.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Connect ISA to Information.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Connect ISA to Information_1.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Connect ISA to Information.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review Rules in IS.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID_3.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID_3.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/IS Rule.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/IS Rule.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Demonstration Run Rules in.png"
+      TimeStamp="5/2/2017 4:54:03 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Run Rules in.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Instructor will demonstrate.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Instructor will demonstrate_1.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Instructor will demonstrate.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Configure ISA Project Distributions.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure ISA Project Distributions.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Distribution can be individual.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Distribution Owner.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Project Distribution.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Project Distribution_1.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Project Distribution.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If additional users need.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Filters are customized.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add Rules to Distribution.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE If rules were just added.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If rules were just added.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Distribution Rules.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Distribution Rules.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Rule Binding ID is.htm"
+      TimeStamp="5/2/2017 4:54:24 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The description should.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Update Description.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Update Description_1.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Update Description.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Distribution Rule Bindings.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE NAME3 will not display.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add Rules to Distribution_1.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE If rules were just added_1.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If rules were just added_1.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Project Distribution Rules.png"
+      TimeStamp="5/2/2017 4:54:04 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Project Distribution Rules.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The description should_1.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Distribution Rule Bindings_1.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Three rules display for.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Project Distribution Rules_1.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Project Distribution Rules_1.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Every hour a service.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review the Reports.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The data displayed in.htm"
+      TimeStamp="5/2/2017 4:54:25 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure Workflows.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Every 10 minutes a service.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Excel spreadsheets.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Excel spreadsheets.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Workflow Option list.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Workflow Option list.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Workflow options.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Workflow options.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE User filters can be applied.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE User filters can be applied.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE ISA retains a history.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Workflows.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Workflows.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Change Request Status.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Change Request Status.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Retention Parameters.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE All requests must be.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Requests are no longer.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add the Rules to the Template.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE An ISA External Request.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Templates are organized in.png"
+      TimeStamp="5/2/2017 4:54:05 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Templates are organized in.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template must be.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The ISA External Scenario.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Rule ID and Rule.htm"
+      TimeStamp="5/2/2017 4:54:26 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Enter a meaningful name.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Target ERP System.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE All projects that exist.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Only rule bindings associated.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Staging Data Source.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Data is moved from the.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario_1.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario_1_1.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario_1.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE A report for the chosen.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Map Columns from ISA Report.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template has already.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template has already.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Map Columns icon.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Start typing the name.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Select a field from the.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mapped Fields.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Mapped Fields.htm"
+      TimeStamp="5/2/2017 4:54:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mapped Fields_1.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Mapped Fields_1.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Activate the Template.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Activate the Template.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Generate Requests from ISA.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The two Requests display.png"
+      TimeStamp="5/2/2017 4:54:06 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The two Requests display.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Recordings can be done.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Review Rules in IS_1.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review Rules in IS_1.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE XX is the Training ID_4.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The rule is run against.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The rule is run against.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The two projects from.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Distribution can be individual_1.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Process Project.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports_1.htm"
+      TimeStamp="5/2/2017 4:54:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The data displayed in_1.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The data displayed in_1.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The SAP Connection selected.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Templates listed.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Create Template.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Create Template.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If prompted enter the.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Generate a Template.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/cMass vs cMass_Data.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/cMass vs cMass_Data.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The recording for the.png"
+      TimeStamp="5/2/2017 4:54:07 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The recording for the.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Once a Template is created.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template must be_1.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario_2.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/ISA External Request Scenario_2.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Exercise Map.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mapped Columns.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Mapped Columns.htm"
+      TimeStamp="5/2/2017 4:54:29 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Any field in the table.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template must be_2.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/To add column properties.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/To add column properties_1.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/To add column properties.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE When the Template was.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Import Column Properties and.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Column display may be.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Three default global.htm"
+      TimeStamp="5/2/2017 4:54:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Global Roles.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Global Roles_1.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Global Roles.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Import Columns will.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE By default Required fields.png"
+      TimeStamp="5/2/2017 4:54:08 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE By default Required fields.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The background color.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Once the Request is generated.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure Comparison Approval.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Advanced users such as.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE When Use Comparison Approval.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE When Use Comparison Approval.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Register a Template Role Event.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Register a Template Role Event_1.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Register a Template Role Event.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If multiple template.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template Role Event.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Template Role Event.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Remediate Missing Manufacture.htm"
+      TimeStamp="5/2/2017 4:54:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Add a Filter to a User.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add a Filter to a User.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/User Filter.png"
+      TimeStamp="5/2/2017 4:54:09 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/User Filter.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Process Project_1.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If the rule was just.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports_2.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The data displayed in_2.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Create a Template in Integrate.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Recording and Template Techniques.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Batch Data Communication BDC.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/GUI Scripts.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Recording Tips.htm"
+      TimeStamp="5/2/2017 4:54:32 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/The following tips help facilitate.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Security keys must be.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Use Integrate to.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The dspCompose Category.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template Name must.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Transaction Code.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template_1.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Template.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE For BDC recording SAP.htm"
+      TimeStamp="5/2/2017 4:54:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Only fields the user.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Only fields the user_1.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Only fields the user.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Select Views.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Select Views_1.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Select Views_2.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Select Views.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The BDC recording ends.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Modify the BDC Script.png"
+      TimeStamp="5/2/2017 4:54:10 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Modify the BDC Script.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Old Material Number is.png"
+      TimeStamp="5/2/2017 4:54:11 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Old Material Number is.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The SAP field name and.png"
+      TimeStamp="5/2/2017 4:54:11 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The SAP field name and.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Field Technical Information.png"
+      TimeStamp="5/2/2017 4:54:11 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Field Technical Information.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Is Field check box.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Integrate allows a user.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Copy Template functionality.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Once a BDC script has.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/To merge or copy a BDC screen.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/The merge process copies all.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Template must be_3.htm"
+      TimeStamp="5/2/2017 4:54:34 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Enter SAP credentials.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Set up External.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE This address is where.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE This address must be.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/The email address entered.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/This email address should.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The port on the email.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The path of the folder.htm"
+      TimeStamp="5/2/2017 4:54:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/External Email Configuration.png"
+      TimeStamp="5/2/2017 4:54:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/External Email Configuration_1.png"
+      TimeStamp="5/2/2017 4:54:11 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/External Email Configuration.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Configure Workflow.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The address in the Email.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The address in the Email.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Email From must match.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Email From.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Email From.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Update the Email From.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Update the Email From.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Subject Alias will.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/When dspCompose receives an.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/The subject line of the email.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE If enabled this external.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If enabled this external.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE When a request is received.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The user name will automatically.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Language ID sets.htm"
+      TimeStamp="5/2/2017 4:54:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/External Email Address.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/External Email Address.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Excel staging file.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The file must be in a.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The only files that can.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Staging Data Source_1.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Sheet Name is the.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/External Request Scenario.png"
+      TimeStamp="5/2/2017 4:54:12 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/External Request Scenario.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Staging Table Name.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Map the Excel Columns.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Mapped Columns_1.png"
+      TimeStamp="5/2/2017 4:54:13 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Mapped Columns_1.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add a Global Role.htm"
+      TimeStamp="5/2/2017 4:54:37 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add a second Data Manufacturing.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/To add a role to the Template.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Roles cannot have the.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Priority also controls.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If Auto Copy is enabled.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Priority also controls_1.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Only Global Roles set.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If enabled Excel files.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Select the Force Validation.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Displays option that prevents.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/During processing if a validation.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE Four roles display for.png"
+      TimeStamp="5/2/2017 4:54:13 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Four roles display for.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Setup Role Dependencies.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE To add a role dependency.png"
+      TimeStamp="5/2/2017 4:54:13 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE To add a role dependency.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Dependencies.png"
+      TimeStamp="5/2/2017 4:54:13 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Dependencies.htm"
+      TimeStamp="5/2/2017 4:54:38 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Global dependencies.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure Review Role Settings.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE dspCompose parameters.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure Comparison Approval_1.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Verify the table and.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The CompareIns stored.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE If multiple Template_1.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template Role Event_1.png"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template Role Event_1.jpg"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Template Role Event_1_1.png"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Template Role Event_1.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Changes will be reviewed.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Add Column Properties.png"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add Column Properties.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The List Source is the.htm"
+      TimeStamp="5/2/2017 4:54:39 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The List Value field.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The List Display field.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Define Column Controls for.png"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Define Column Controls for.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Disabling the columns.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Role Column Controls.png"
+      TimeStamp="5/2/2017 4:54:14 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Role Column Controls.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Import Column Properties and_1.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Import Columns will_1.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Imported Column Properties.png"
+      TimeStamp="5/2/2017 4:54:15 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Imported Column Properties.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Once the Request is generated_1.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Add Template Role Validations.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE ID RequestID and the.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_2.png"
+      TimeStamp="5/2/2017 4:54:15 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Validation Rule_2.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Role Object Name.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Displays severity of.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Comment field displays.htm"
+      TimeStamp="5/2/2017 4:54:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Role Validation Registration.png"
+      TimeStamp="5/2/2017 4:54:15 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Role Validation Registration.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Configure Post Finish Process.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Data Services Data Source.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Data Services Job.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2)_1.png"
+      TimeStamp="5/2/2017 4:54:15 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2)_1.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Initiate the Request and Verify.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The email address is.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Must match the Subject.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE A Service page runs by.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Verify the Template.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Verify the Comparison Approval.htm"
+      TimeStamp="5/2/2017 4:54:41 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The 5 record approved.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Verify the Post Role Configurations.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE Enter authentication.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE There are now two Requests.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Requests_1.png"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/Requests_1.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../../Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The Finish Download Status.htm"
+      TimeStamp="5/2/2017 4:54:42 PM" />
+    <Url
+      Source="../TOCs/Information Steward Accelerator Fundamentals (6.2).fltoc"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Information Steward Accelerator Fundamentals (6.2).flmsp"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Training.css"
+      TimeStamp="5/2/2017 4:54:16 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Body" />
+    <StyleName
+      Name="Caption" />
+    <StyleName
+      Name="Heading" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Note" />
+    <StyleName
+      Name="Outline" />
+    <StyleName
+      Name="Screen Shot" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="[Basic Paragraph]" />
+    <StyleName
+      Name="After Heading 3" />
+    <StyleName
+      Name="Body" />
+    <StyleName
+      Name="Bullet Table" />
+    <StyleName
+      Name="Caption" />
+    <StyleName
+      Name="Document Title" />
+    <StyleName
+      Name="Heading" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Indented List Bullet" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="Note" />
+    <StyleName
+      Name="NOTE" />
+    <StyleName
+      Name="Numbered List" />
+    <StyleName
+      Name="Other Title" />
+    <StyleName
+      Name="Outline" />
+    <StyleName
+      Name="Release Date" />
+    <StyleName
+      Name="Screen Shot" />
+    <StyleName
+      Name="Table Column" />
+    <StyleName
+      Name="Table Text" />
+    <StyleName
+      Name="TOC 1" />
+    <StyleName
+      Name="TOC 2" />
+    <StyleName
+      Name="TOC 3" />
+    <StyleName
+      Name="Version Number" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="List Bullet Char" />
+    <StyleName
+      Name="Note Char" />
+    <StyleName
+      Name="Numbered List Char" />
+    <StyleName
+      Name="rls-2-noteslist" />
+  </UsedCharacterStyles>
+</MsWordImport>

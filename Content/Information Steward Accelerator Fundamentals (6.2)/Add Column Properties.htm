@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Outline_1"><a name="_Toc417653134"></a><span style="margin-right: 0pt;">5.17 </span>Add Column Properties</p>
+        <p>Column properties ensure that specific values are selected through a list box or combo box when manually entering data or specifying required fields. If the data for the request is imported from a view and the value of the field does not meet the criteria of the column property, the record displays as invalid.</p>
+        <p>Add column properties disable and make <span style="font-weight: bold;">MATNR</span> required. Add a combo box to the <span style="font-weight: bold;">MATKL</span> and a list box to EXTWG columns.</p>
+        <p><span style="font-weight: bold;">List Box </span>or a<span style="font-weight: bold;"> Combo Box </span>are Control Types within Column Properties that display a field as a list with options from a selected Table or View. Column Properties are specified to control the behavior of the Control Types, what is displayed and how values are stored in a table.</p>
+        <p>When creating List or Combo Box Views:</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">Use the naming convention <span style="font-weight: bold;">webXXXList </span>where <span style="font-weight: bold;">XXX </span>describes what is being listed, e.g., webProductList. </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">Include only the columns that apply to the List Value, List Display, List Select or List WHERE clause registrations. </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">Include a unique set of data. </li>
+        </ul>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li class="ListBullet_2" style="list-style-type: disc;">Do not sort in the view. Sorting is done in the DSP using the List Order By Column Property.</li>
+        </ul>
+        <p>Combo boxes are recommended when there is a larger set of data. The use can start typing the value needed and the list will filter based on the value entered.</p>
+        <p>Column Properties can be added in System Admin as demonstrated in Exercise 4 or they can be added directly on the Data Entry page. The benefit of adding them on the Data Entry page is that the changes can be tested immediately to ensure there are no errors. </p>
+        <p>To add Column Properties:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList">Locate <span style="font-weight: bold;">MaterialMasterUpdateXX </span>page.</li>
+            <li class="NumberedList">Click <span style="font-weight: bold;">Column Properties</span> <span style="font-size: 10pt;"><img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Add Column Properties.png" style="visibility: visible;mso-wrap-style: square;width: 18px;height: 17px;" /></span>.</li>
+            <li class="NumberedList">Click the <span style="font-weight: bold;">Add</span> button.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">RMMG1-MATNR</span> from the <span style="font-weight: bold;">Column</span> list box.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">Text Box</span> from the <span style="font-weight: bold;">Control</span> list box.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">Disabled</span> from the <span style="font-weight: bold;">Control Status</span> list box.</li>
+            <li class="NumberedList">Click the <span style="font-weight: bold;">Save</span> button, the <span style="font-style: italic;">Vertical</span> View displays.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">Yes (hard)</span> from the <span style="font-weight: bold;">Required</span> list box.</li>
+            <li class="NumberedList">Click the <span style="font-weight: bold;">Save</span> button.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">MARA-MATK</span><span style="font-weight: bold;">L</span> from the <span style="font-weight: bold;">Column</span> list box.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">Combo B</span><span style="font-weight: bold;">ox</span> from the <span style="font-weight: bold;">Control</span> list box.</li>
+            <li class="NumberedList">Click the <span style="font-weight: bold;">Save</span> button, the <span style="font-style: italic;">Vertical</span> View displays.</li>
+            <li class="NumberedList">Select <span style="font-weight: bold;">webMATK</span><span style="font-weight: bold;">LList</span> from the <span style="font-weight: bold;">List Source</span> list box.</li>
+        </ol>
+    </body>
+</html>

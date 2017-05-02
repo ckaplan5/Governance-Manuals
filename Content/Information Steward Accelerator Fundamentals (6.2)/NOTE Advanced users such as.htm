@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Note"><span style="font-weight: bold;">NOTE</span>:Advanced users such as BackOffice consultants should configure the comparison approval feature as it requires knowledge of both SQL and SAP. Once configured, business end users assigned to the Review role can use the feature.</p>
+        <p>To configure and use comparison approvals:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList">Create the Template</li>
+            <li class="NumberedList">Configure the Comparison Approval Setting</li>
+            <li class="NumberedList">Modify the ComparIns Stored Procedure</li>
+            <li class="NumberedList">Register the CompareIns Stored Procedure</li>
+            <li class="NumberedList">Create a Request for Comparison Approval</li>
+            <li class="NumberedList">Use the Comparison Approval Page</li>
+        </ol>
+        <p>When a Template is generated, dspCompose™ creates a table, a view and a stored procedure in the cMass_Data database to control the Comparison page. The naming convention for the stored procedure is <span style="font-weight: bold;">web[Template Name]CompareIns</span>. To see the before and after data entries, the CompareIns stored procedure must be modified.</p>
+        <p>The dgSAP database is a copy of tables in SAP. The stored procedure is used to insert what is currently in SAP from the dgSAP tables to the Comparison staging table in cMass_Data for the request. The dgSAP tables are a copy of SAP and loaded using Collect.</p>
+        <p>To configure comparison approval:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList">Click <span style="font-weight: bold;">Vertical View</span> <img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/Validation Error_1.png" style="visibility: visible;mso-wrap-style: square;width: 17px;height: 17px;" /> for the <span style="font-weight: bold;">Review</span> role. </li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="2">
+            <li class="NumberedList">Click <span style="font-weight: bold;">Approve and Finish Settings</span> tab. </li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="3">
+            <li class="NumberedList">Click <span style="font-weight: bold;">Use Comparison Approval Page</span> check box to enable it. </li>
+        </ol>
+    </body>
+</html>

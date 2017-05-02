@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="Header_1">
+                <img src="../Images/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2).jpg" style="left: 0;text-align: left;z-index: -1;visibility: visible;mso-wrap-style: square;mso-wrap-distance-left: 9pt;mso-wrap-distance-top: 0;mso-wrap-distance-right: 9pt;mso-wrap-distance-bottom: 0;mso-position-horizontal: absolute;mso-position-horizontal-relative: text;mso-position-vertical: absolute;mso-position-vertical-relative: text;margin-left: 0pt;width: 816px;height: 1068px;" alt="Background" />
+                <img src="../Images/Information Steward Accelerator Fundamentals (6.2)/Information Steward Accelerator Fundamentals (6.2).png" style="visibility: visible;mso-wrap-style: square;width: 162px;height: 36px;" alt="Macintosh HD:Users:stephendrowne:Desktop:BOA_LogoS-5405-485-MS.png" />
+            </p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="BasicParagraph"><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">BackOffice Associates, LLC</span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">T&#160; +1 </span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">770-246-1287</span>
+            </p>
+            <p class="BasicParagraph"><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">12000 Findley Road</span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">F&#160; +1 </span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">770-246-1289</span>
+            </p>
+            <p class="BasicParagraph"><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">Suite 200</span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">info@boaweb.com</span>
+            </p>
+            <p class="BasicParagraph"><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">Johns Creek, GA 30097</span><span style="font-family: 'Arial Narrow';color: #808080;font-size: 8pt;">www.boaweb.com</span>
+            </p>
+        </div>
+    </body>
+</html>

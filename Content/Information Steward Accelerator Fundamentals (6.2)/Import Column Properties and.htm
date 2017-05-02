@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Outline_1"><a name="_Toc417653112"></a><span style="margin-right: 0pt;">4.9 </span>Import Column Properties and Configure Excel Columns for a Template</p>
+        <p>By default, the Data Role is configured to export and import Excel spreadsheets. This is configurable on the Vertical View of the Data Role on the <span style="font-weight: bold;">Import Settings</span> tab. At the request role level, if Excel Import is enabled for the Template used by the request, a user assigned to the role can generate an Excel file to use for data entry.</p>
+        <p>Once the Column Properties have been configured in System Administration for the <span style="font-style: italic;">Data Entry</span> page, they can be imported to the Excel file and additional configurations can be made.</p>
+        <p>The columns display in the generated data entry spreadsheet and on the Data Entry can be controlled by either adding Column Properties or configuring it at the Template Role Level for a request based on the Template. Column access and color settings can also be configured.</p>
+        <p>Column display can be affected by settings:</p>
+        <ul style="list-style-type: disc;margin-left: 22pt;">
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">At the template role level on the <span style="font-style: italic;">Template (Role Excel Column Control)</span> page</li>
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">At the template role level on the <span style="font-style: italic;">Template (Role Column)</span> page</li>
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">At the Review filter level if the role is Review</li>
+        </ul>
+        <p>dspCompose™ compares these column display settings, if applicable, and uses the most restrictive column control status (set on the <span style="font-style: italic;">Template (Role Column)</span> page) to determine if a column should be displayed. Hidden is more restrictive then Disabled. Disabled is more restrictive then Enabled. </p>
+        <p>The <span style="font-style: italic;">Template (Role Excel Column Control)</span> page allows the Template Administrator to set:</p>
+        <ul style="list-style-type: disc;margin-left: 22pt;">
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">Whether a column is included or excluded in the Excel file generated for data entry and on the data entry pages</li>
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">Whether a column is read only</li>
+            <li style="margin-top: 3pt;margin-bottom: 3pt;">What type of control, such as a list box, is used to enter data</li>
+        </ul>
+        <p>The <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;">Template (Role Excel Column Control)</span> page allows the user to configure further settings, such as colors, list settings, and custom validations.</p>
+    </body>
+</html>

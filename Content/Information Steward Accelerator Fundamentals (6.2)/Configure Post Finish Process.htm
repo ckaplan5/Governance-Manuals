@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/Training.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p class="Outline_1"><a name="_Toc417653138"></a><span style="margin-right: 0pt;">5.21 </span>Configure Post Finish Process</p>
+        <p>At the template role level for a Post role, tables for download can be register as a Finish process to keep dgSAP (the working snapshot of the SAP data) and SAP in synch. When configuring the Comparison approval for the Review Role, it looks in the dgSAP tables to compare the current value with the value that is getting changed. The Finish process starts when a user clicks the <span style="font-weight: bold;">Finish</span> button for a Post role on the <span style="font-style: italic;">Request (Roles)</span> page and refreshes the changed data in the dgSAP tables.</p>
+        <p>Data Services jobs can be registered and run to pull data from the SAP environment and add it to the dgSAP database The RequestID, as the global variable "$RequestID", is always passed to the Data Services job during the dspCompose™ Finish process. RequestID does not need to be registered.</p>
+        <p>If additional global variables are needed, they can be added on the <span style="font-style: italic;">Data Services Global Variables</span> <span style="font-style: italic;">Setup</span> page.</p>
+        <p>The Data Services job must have been written and stored in the Data Services repository before the job can be registered in dspCompose™.</p>
+        <p>Additional configuration settings can be done to set Collect rules to run on table data after the download is finished, and to specify filter columns for both source and target data.</p>
+        <p>On the <span style="font-style: italic;">Vertical</span> View of the <span style="font-style: italic;">Template (Role)</span> page for the Post role, on the <span style="font-weight: bold;">Approve and Finish Settings</span> tab, two settings help to facilitate this functionality: <span style="font-weight: bold;">Finish</span> <span style="font-weight: bold;">Tables</span> and <span style="font-weight: bold;">Finish Download in Background</span>.</p>
+        <p>If the <span style="font-weight: bold;">Finish Download In Background</span> check box is enabled, the data downloads in the background after the user clicks the <span style="font-weight: bold;">Finish</span> button for a Post role on the <span style="font-style: italic;">Request (Roles)</span> page.</p>
+        <p>Configure the Finish Tables for the Post Role to refresh the MARA table in dgSAP with the updated Manufacturer Part Number and any other changes during the remediation process.</p>
+        <p>To configure the Finish Tables:</p>
+        <ol style="list-style-type: decimal;margin-left: 25pt;" start="1">
+            <li class="NumberedList" style="margin-top: 3pt;margin-bottom: 3pt;">Locate the <span style="font-weight: bold;">Post</span> Role on the <span style="font-style: italic;">Template (Role)</span> page.</li>
+            <li class="NumberedList" style="margin-top: 3pt;margin-bottom: 3pt;">Click <span style="font-weight: bold;">Finish Tables </span><img src="../Resources/Images/Information Steward Accelerator Fundamentals (6.2)/NOTE The Instructor will demonstrate.png" style="visibility: visible;mso-wrap-style: square;width: 16px;height: 16px;" />.</li>
+            <li class="NumberedList" style="margin-top: 3pt;margin-bottom: 3pt;">Select <span style="font-weight: bold;">Collect_SAP_Repo</span> from the <span style="font-weight: bold;">Data Services Data Source</span> list box.</li>
+        </ol>
+    </body>
+</html>
