@@ -1,86 +1,165 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-    <TocEntry Title="Overview" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Table of Contents.htm#_Toc417653065">
-        <TocEntry Title="End to End Remediation" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/End to End Remediation.htm#_Toc417653066" />
-        <TocEntry Title="Information Steward Accelerator Solution" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/End to End Remediation.htm#_Toc417653067" />
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview">
+    <TocEntry
+      Title="End to End Remediation" />
+    <TocEntry
+      Title="Information Steward Accelerator Solution" />
+  </TocEntry>
+  <TocEntry
+    Title="Training Objectives" />
+  <TocEntry
+    Title="Prerequisite" />
+  <TocEntry
+    Title="Exercise 1 - Remediate Missing US Postal Codes">
+    <TocEntry
+      Title="1.0 View Dashboard" />
+    <TocEntry
+      Title="1.1 Review Report in Information Steward Accelerator" />
+    <TocEntry
+      Title="1.2 Get Started with Remediation">
+      <TocEntry
+        Title="Requests" />
+      <TocEntry
+        Title="Templates" />
     </TocEntry>
-    <TocEntry Title="Training Objectives" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Training Objectives.htm#_Toc417653068" />
-    <TocEntry Title="Prerequisite" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Prerequisite.htm#_Toc417653069" />
-    <TocEntry Title="Exercise 1 - Remediate Missing US Postal Codes" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Remediate Missing US Postal.htm#_Toc417653070">
-        <TocEntry Title="1.0 View Dashboard" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/View Dashboard.htm#_Toc417653071" />
-        <TocEntry Title="1.1 Review Report in Information Steward Accelerator" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Dashboard.htm#_Toc417653072" />
-        <TocEntry Title="1.2 Get Started with Remediation" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Get Started with Remediation.htm#_Toc417653073">
-            <TocEntry Title="Requests" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Requests.htm#_Toc417653074" />
-            <TocEntry Title="Templates" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Templates.htm#_Toc417653075" />
-        </TocEntry>
-        <TocEntry Title="1.3 Generate the Request in ISA" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Generate the Request in ISA.htm#_Toc417653076" />
-        <TocEntry Title="1.4 Process the Request in the dspCompose Component of ISA" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Process the Request in the.htm#_Toc417653077" />
-        <TocEntry Title="1.5 Validate the Data" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Data Controls.htm#_Toc417653078" />
-        <TocEntry Title="1.6 Fix the Failed Records" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Validation Error.htm#_Toc417653079" />
-        <TocEntry Title="1.7 Review the Changes" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review the Changes.htm#_Toc417653080" />
-        <TocEntry Title="1.8 Post the Data" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Post the Data.htm#_Toc417653081" />
-        <TocEntry Title="1.9 Review the Rejected Record Request" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Finish Process.htm#_Toc417653082" />
-        <TocEntry Title="1.10 Demonstration – Refresh the ISA Report" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Refresh the.htm#_Toc417653083" />
-        <TocEntry Title="1.11 Self-Directed – View the updated ISA report" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed View the updated.htm#_Toc417653084" />
-        <TocEntry Title="1.12 Generate a Request Using Excel" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Report Viewer.htm#_Toc417653085" />
-        <TocEntry Title="1.13 Process the Request" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Process the Request.htm#_Toc417653086" />
-        <TocEntry Title="1.14 Self-Directed – Review and Post the Record" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Review and Post.htm#_Toc417653087" />
-        <TocEntry Title="2.0 Review the Report and Generate the Request in ISA" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review the Report and Generate.htm#_Toc417653088" />
-        <TocEntry Title="2.1 Update Using Mass Change" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Update Using Mass Change.htm#_Toc417653089" />
-        <TocEntry Title="2.2 Self-Directed – Approve and Post the Changes" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Approve and.htm#_Toc417653090" />
-        <TocEntry Title="3.0 Connect ISA to Information Steward" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Connect ISA to Information.htm#_Toc417653091" />
-        <TocEntry Title="3.1 Review Rules in IS" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review Rules in IS.htm#_Toc417653092" />
-        <TocEntry Title="3.2 Demonstration – Run Rules in IS and Refresh IS Projects" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Run Rules in.htm#_Toc417653093" />
-        <TocEntry Title="3.3 Configure ISA Project Distributions" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure ISA Project Distributions.htm#_Toc417653094" />
-        <TocEntry Title="3.4 Add User to Project Distribution" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Project Distribution.htm#_Toc417653095" />
-        <TocEntry Title="3.5 Add Rules to Distribution through Rules List" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add Rules to Distribution.htm#_Toc417653096" />
-        <TocEntry Title="3.6 Add Rules to Distribution Through Quality Dimensions" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add Rules to Distribution_1.htm#_Toc417653097" />
-        <TocEntry Title="3.7 Demonstration – Process Project Distribution Rules" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Project Distribution Rules_1.htm#_Toc417653098" />
-        <TocEntry Title="3.8 Review the Reports" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports.htm#_Toc417653099" />
-        <TocEntry Title="3.9 Configure Workflows" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure Workflows.htm#_Toc417653100" />
-        <TocEntry Title="3.10 Change Request Status" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Change Request Status.htm#_Toc417653101" />
-        <TocEntry Title="3.11 Add the Rules to the Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add the Rules to the Template.htm#_Toc417653102" />
-        <TocEntry Title="3.12 Map Columns from ISA Report to Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Map Columns from ISA Report.htm#_Toc417653103" />
-        <TocEntry Title="3.13 Self-Directed – Add a Rule to the Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Mapped Fields_1.htm#_Toc417653104" />
-        <TocEntry Title="3.14 Activate the Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Activate the Template.htm#_Toc417653105" />
-        <TocEntry Title="3.15 Generate Requests from ISA" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Generate Requests from ISA.htm#_Toc417653106" />
-        <TocEntry Title="3.16 Self-Directed – Process the Requests" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/NOTE The two Requests display.htm#_Toc417653107" />
-        <TocEntry Title="4.2 Demonstration – Process Project Distribution Rules" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Process Project.htm#_Toc417653108" />
-        <TocEntry Title="4.3 Review the Reports" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports_1.htm#_Toc417653109" />
-        <TocEntry Title="4.5 Generate a Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Generate a Template.htm#_Toc417653110" />
-        <TocEntry Title="4.7 Self-Directed Exercise – Map Columns" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Exercise Map.htm#_Toc417653111" />
-        <TocEntry Title="4.9 Import Column Properties and Configure Excel Columns for a Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Import Column Properties and.htm#_Toc417653112" />
-        <TocEntry Title="4.10 Configure Comparison Approval" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure Comparison Approval.htm#_Toc417653113" />
-        <TocEntry Title="4.12 Register a Template Role Event" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Register a Template Role Event.htm#_Toc417653114" />
+    <TocEntry
+      Title="1.3 Generate the Request in ISA" />
+    <TocEntry
+      Title="1.4 Process the Request in the dspCompose Component of ISA" />
+    <TocEntry
+      Title="1.5 Validate the Data" />
+    <TocEntry
+      Title="1.6 Fix the Failed Records" />
+    <TocEntry
+      Title="1.7 Review the Changes" />
+    <TocEntry
+      Title="1.8 Post the Data" />
+    <TocEntry
+      Title="1.9 Review the Rejected Record Request" />
+    <TocEntry
+      Title="1.10 Demonstration – Refresh the ISA Report" />
+    <TocEntry
+      Title="1.11 Self-Directed – View the updated ISA report" />
+    <TocEntry
+      Title="1.12 Generate a Request Using Excel" />
+    <TocEntry
+      Title="1.13 Process the Request" />
+    <TocEntry
+      Title="1.14 Self-Directed – Review and Post the Record" />
+    <TocEntry
+      Title="2.0 Review the Report and Generate the Request in ISA" />
+    <TocEntry
+      Title="2.1 Update Using Mass Change" />
+    <TocEntry
+      Title="2.2 Self-Directed – Approve and Post the Changes" />
+    <TocEntry
+      Title="3.0 Connect ISA to Information Steward" />
+    <TocEntry
+      Title="3.1 Review Rules in IS" />
+    <TocEntry
+      Title="3.2 Demonstration – Run Rules in IS and Refresh IS Projects" />
+    <TocEntry
+      Title="3.3 Configure ISA Project Distributions" />
+    <TocEntry
+      Title="3.4 Add User to Project Distribution" />
+    <TocEntry
+      Title="3.5 Add Rules to Distribution through Rules List" />
+    <TocEntry
+      Title="3.6 Add Rules to Distribution Through Quality Dimensions" />
+    <TocEntry
+      Title="3.7 Demonstration – Process Project Distribution Rules" />
+    <TocEntry
+      Title="3.8 Review the Reports" />
+    <TocEntry
+      Title="3.9 Configure Workflows" />
+    <TocEntry
+      Title="3.10 Change Request Status" />
+    <TocEntry
+      Title="3.11 Add the Rules to the Template" />
+    <TocEntry
+      Title="3.12 Map Columns from ISA Report to Template" />
+    <TocEntry
+      Title="3.13 Self-Directed – Add a Rule to the Template" />
+    <TocEntry
+      Title="3.14 Activate the Template" />
+    <TocEntry
+      Title="3.15 Generate Requests from ISA" />
+    <TocEntry
+      Title="3.16 Self-Directed – Process the Requests" />
+    <TocEntry
+      Title="4.2 Demonstration – Process Project Distribution Rules" />
+    <TocEntry
+      Title="4.3 Review the Reports" />
+    <TocEntry
+      Title="4.5 Generate a Template" />
+    <TocEntry
+      Title="4.7 Self-Directed Exercise – Map Columns" />
+    <TocEntry
+      Title="4.9 Import Column Properties and Configure Excel Columns for a Template" />
+    <TocEntry
+      Title="4.10 Configure Comparison Approval" />
+    <TocEntry
+      Title="4.12 Register a Template Role Event" />
+  </TocEntry>
+  <TocEntry
+    Title="Exercise 5 - Remediate Missing Manufacture Part Number">
+    <TocEntry
+      Title="5.0 Add a Filter to a User" />
+    <TocEntry
+      Title="5.1 Self – Directed Add Rule to Distribution" />
+    <TocEntry
+      Title="5.2 Demonstration – Process Project Distribution Rules" />
+    <TocEntry
+      Title="5.3 Review the Reports" />
+    <TocEntry
+      Title="5.4 Create a Template in Integrate" />
+    <TocEntry
+      Title="Recording and Template Techniques">
+      <TocEntry
+        Title="Batch Data Communication (BDC) Recordings" />
+      <TocEntry
+        Title="GUI Scripts" />
     </TocEntry>
-    <TocEntry Title="Exercise 5 - Remediate Missing Manufacture Part Number" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Remediate Missing Manufacture.htm#_Toc417653115">
-        <TocEntry Title="5.0 Add a Filter to a User" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add a Filter to a User.htm#_Toc417653116" />
-        <TocEntry Title="5.1 Self – Directed Add Rule to Distribution" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/User Filter.htm#_Toc417653117" />
-        <TocEntry Title="5.2 Demonstration – Process Project Distribution Rules" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Process Project_1.htm#_Toc417653118" />
-        <TocEntry Title="5.3 Review the Reports" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Review the Reports_2.htm#_Toc417653119" />
-        <TocEntry Title="5.4 Create a Template in Integrate" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Create a Template in Integrate.htm#_Toc417653120" />
-        <TocEntry Title="Recording and Template Techniques" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Recording and Template Techniques.htm#_Toc417653121">
-            <TocEntry Title="Batch Data Communication (BDC) Recordings" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Batch Data Communication BDC.htm#_Toc417653122" />
-            <TocEntry Title="GUI Scripts" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/GUI Scripts.htm#_Toc417653123" />
-        </TocEntry>
-        <TocEntry Title="Recording Tips" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Recording Tips.htm#_Toc417653124" />
-        <TocEntry Title="5.5 Modify the BDC Script" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Modify the BDC Script.htm#_Toc417653125" />
-        <TocEntry Title="5.7 Demonstration – Set up External Email Account" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Set up External.htm#_Toc417653126" />
-        <TocEntry Title="5.8 Demonstration – Configure Workflow Messages" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Demonstration Configure Workflow.htm#_Toc417653127" />
-        <TocEntry Title="5.10 Map the Excel Columns" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Map the Excel Columns.htm#_Toc417653128" />
-        <TocEntry Title="5.11 Add a Global Role" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add a Global Role.htm#_Toc417653129" />
-        <TocEntry Title="5.13 Setup Role Dependencies" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Setup Role Dependencies.htm#_Toc417653130" />
-        <TocEntry Title="5.14 Configure Review Role Settings" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure Review Role Settings.htm#_Toc417653131" />
-        <TocEntry Title="5.15 Configure Comparison Approval" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure Comparison Approval_1.htm#_Toc417653132" />
-        <TocEntry Title="5.16 Configure Page Properties for the Data Entry Page" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Template Role Event_1.htm#_Toc417653133" />
-        <TocEntry Title="5.17 Add Column Properties" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add Column Properties.htm#_Toc417653134" />
-        <TocEntry Title="5.18 Define Column Controls for Roles" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Define Column Controls for.htm#_Toc417653135" />
-        <TocEntry Title="5.19 Import Column Properties and Configure Excel Columns for a Template" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Import Column Properties and_1.htm#_Toc417653136" />
-        <TocEntry Title="5.20 Add Template Role Validations" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Add Template Role Validations.htm#_Toc417653137" />
-        <TocEntry Title="5.21 Configure Post Finish Process" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Configure Post Finish Process.htm#_Toc417653138" />
-        <TocEntry Title="5.22 Initiate the Request and Verify Data Entry Configurations" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Initiate the Request and Verify.htm#_Toc417653139" />
-        <TocEntry Title="5.23 Self-Directed – Verify the Template Configurations" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Self Directed Verify the Template.htm#_Toc417653140" />
-        <TocEntry Title="5.24 Verify the Comparison Approval and Partial Approval are Configured" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Verify the Comparison Approval.htm#_Toc417653141" />
-        <TocEntry Title="5.25 Verify the Post Role Configurations" Link="/Content/Information Steward Accelerator Fundamentals (6.2)/Verify the Post Role Configurations.htm#_Toc417653142" />
-    </TocEntry>
+    <TocEntry
+      Title="Recording Tips" />
+    <TocEntry
+      Title="5.5 Modify the BDC Script" />
+    <TocEntry
+      Title="5.7 Demonstration – Set up External Email Account" />
+    <TocEntry
+      Title="5.8 Demonstration – Configure Workflow Messages" />
+    <TocEntry
+      Title="5.10 Map the Excel Columns" />
+    <TocEntry
+      Title="5.11 Add a Global Role" />
+    <TocEntry
+      Title="5.13 Setup Role Dependencies" />
+    <TocEntry
+      Title="5.14 Configure Review Role Settings" />
+    <TocEntry
+      Title="5.15 Configure Comparison Approval" />
+    <TocEntry
+      Title="5.16 Configure Page Properties for the Data Entry Page" />
+    <TocEntry
+      Title="5.17 Add Column Properties" />
+    <TocEntry
+      Title="5.18 Define Column Controls for Roles" />
+    <TocEntry
+      Title="5.19 Import Column Properties and Configure Excel Columns for a Template" />
+    <TocEntry
+      Title="5.20 Add Template Role Validations" />
+    <TocEntry
+      Title="5.21 Configure Post Finish Process" />
+    <TocEntry
+      Title="5.22 Initiate the Request and Verify Data Entry Configurations" />
+    <TocEntry
+      Title="5.23 Self-Directed – Verify the Template Configurations" />
+    <TocEntry
+      Title="5.24 Verify the Comparison Approval and Partial Approval are Configured" />
+    <TocEntry
+      Title="5.25 Verify the Post Role Configurations" />
+  </TocEntry>
 </CatapultToc>
